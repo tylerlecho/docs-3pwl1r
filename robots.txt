@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-lyzfso.planetjp.online/sitemap.xml
